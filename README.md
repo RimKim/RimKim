@@ -75,6 +75,8 @@ Here are some ideas to get you started:
 <br>
 <br>
 <div align><h3>  💻 Problem Solving </h3></div> 
+
+<br>
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=peter1224)](https://solved.ac/peter1224)<br/>
 
